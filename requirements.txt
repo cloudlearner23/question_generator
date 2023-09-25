@@ -1,0 +1,16 @@
+azure-ai-ml
+azure-identity
+langchain
+openai
+sentence-transformers
+faiss_cpu
+faiss_gpu
+python-dotenv
+pypdf
+unstructured
+pdf2image
+pdfminer
+pdfminer.six
+tabula-py
+
+
